@@ -2,12 +2,12 @@
 This is a project to build the movie trailers website which lists all the movies you want to display in a single page and plays the trailer in a small window  when you click on it without taking you to a different page.
 
 ## Requirements ##
-Download Phyton Programming language for the program to work.
-The following are the links for downloading
-?    Phyton for Windows 32 bit
-?   Python for windows 64bit
-?   Python for Mac
-Click on the appropriate link according to your system configuration and follow the steps to download the python programming language.
+* Download Phyton Programming language for the program to work.
+* The following are the links for downloading
+  * Phyton for Windows 32 bit
+  * Python for windows 64bit
+  * Python for Mac
+* Click on the appropriate link according to your system configuration and follow the steps to download the python programming language.
 
 ## Specifications ##
 * Below are the three files that are needed for the program to work.
