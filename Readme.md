@@ -10,20 +10,22 @@ The following are the links for downloading
 Click on the appropriate link according to your system configuration and follow the steps to download the python programming language.
 
 ## Specifications ##
-Below are the three files that are needed for the program to work.
-? media.py
-? entertainment.py
-? fresh_tomatoes.py(The fresh_tomatoes.py is the file with html, CSS and Javascript code required to run in the webrowser.It is provided in the folder media trailers.It needs to be stored in the same folder where all your python files were located.
-All of the exact program files are located in the zip folder media trailers.
+* Below are the three files that are needed for the program to work.
+  * media.py
+  * entertainment.py
+  * fresh_tomatoes.py(The fresh_tomatoes.py is the file with html, CSS and Javascript code required to run in the webrowser.It is provided in the folder media trailers.It needs to be stored in the same folder where all your python files were located.
+* All of the exact program files are located in the zip folder media trailers.
 
 ## Getting Started and Creating New File ##
-After the installation has been done click on the Windows icon on your keyboard and look for recently added files. Then click on IDLE(Python GUI) to start your new program.
-A page with python 2.7.9 shell opens.You will see something like this.
+* After the installation has been done click on the Windows icon on your keyboard and look for recently added files. Then click on IDLE(Python GUI) to start your new program.
+* A page with python 2.7.9 shell opens.You will see something like this.
+```
 Python 2.7.9 (default, Dec 10 2014, 12:28:03) [MSC v.1500 64 bit (AMD64)] on win32
 Type "copyright", "credits" or "license()" for more information.
 >>> 
- Now click on File and select New File and then click Save As and save it  with a file name media.py extention and write your program code and save it.
-Repeat the same steps for entertainment.py file as well.
+```
+* Now click on File and select New File and then click Save As and save it  with a file name media.py extention and write your program code and save it.
+* Repeat the same steps for entertainment.py file as well.
 
 
 Step 1:write the code in blue in media.py file
@@ -107,13 +109,13 @@ movies = (frozen, despicable_me_two, home_alone, tangled, avatar, toy_story)
 fresh_tomatoes.open_movies_page(movies)
 ```
 
-Then save it.
-Also make sure to save the fresh_tomatoes.py file in the same folder where all your python files were located.This is a supporting which consists of all the styling required for the web page to work.
+* Then save it.
+* Also make sure to save the fresh_tomatoes.py file in the same folder where all your python files were located.This is a supporting which consists of all the styling required for the web page to work.
 
 ## Running the Program ##
-Follow these steps to run the program. 
-Make sure you downloaded the python programming language as specified above in the requirements and install it before you download the file.
-1.Download the Zip File and UnZip in a folder
-2.Open the IDLE(python GUI) file.
-3.From the IDLE open entertainment.py file and click run Run Module F5 button.
-4.It takes you to the page what you are looking for.
+* Follow these steps to run the program. 
+* Make sure you downloaded the python programming language as specified above in the requirements and install it before you download the file.
+  * Download the Zip File and UnZip in a folder
+  * Open the IDLE(python GUI) file.
+  * From the IDLE open entertainment.py file and click run Run Module F5 button.
+  * It takes you to the page what you are looking for.
