@@ -1,7 +1,7 @@
-Movie Trailers Website
+# Movie Trailers Website #
 This is a project to build the movie trailers website which lists all the movies you want to display in a single page and plays the trailer in a small window  when you click on it without taking you to a different page.
 
-Requirements
+## Requirements ##
 Download Phyton Programming language for the program to work.
 The following are the links for downloading
 ?    Phyton for Windows 32 bit
@@ -9,14 +9,14 @@ The following are the links for downloading
 ?   Python for Mac
 Click on the appropriate link according to your system configuration and follow the steps to download the python programming language.
 
-Specifications
+## Specifications ##
 Below are the three files that are needed for the program to work.
 ? media.py
 ? entertainment.py
 ? fresh_tomatoes.py(The fresh_tomatoes.py is the file with html, CSS and Javascript code required to run in the webrowser.It is provided in the folder media trailers.It needs to be stored in the same folder where all your python files were located.
 All of the exact program files are located in the zip folder media trailers.
 
-Getting Started and Creating New File
+## Getting Started and Creating New File ##
 After the installation has been done click on the Windows icon on your keyboard and look for recently added files. Then click on IDLE(Python GUI) to start your new program.
 A page with python 2.7.9 shell opens.You will see something like this.
 Python 2.7.9 (default, Dec 10 2014, 12:28:03) [MSC v.1500 64 bit (AMD64)] on win32
@@ -110,7 +110,7 @@ fresh_tomatoes.open_movies_page(movies)
 Then save it.
 Also make sure to save the fresh_tomatoes.py file in the same folder where all your python files were located.This is a supporting which consists of all the styling required for the web page to work.
 
-Running the Program
+## Running the Program ##
 Follow these steps to run the program. 
 Make sure you downloaded the python programming language as specified above in the requirements and install it before you download the file.
 1.Download the Zip File and UnZip in a folder
